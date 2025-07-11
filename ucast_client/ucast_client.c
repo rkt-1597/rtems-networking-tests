@@ -1,12 +1,3 @@
-/*
- * ORIGIN:
- * http://ntrg.cs.tcd.ie/undergrad/4ba2/multicast/antony/example.html
- *
- * sender.c -- multicasts "hello, world!" to a multicast group once a second
- *
- * Antony Courtney,	25/11/94
- */
-
 #include <sys/types.h>
 #include <sys/socket.h>
 #include <netinet/in.h>
