@@ -8,7 +8,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 
-#define HELLO_GROUP "10.0.3.70"
+#define HELLO_GROUP "10.0.3.74"
 #define HELLO_PORT 12345
 
 int main(int argc, char *argv[])
